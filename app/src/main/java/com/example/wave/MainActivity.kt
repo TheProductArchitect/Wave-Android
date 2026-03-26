@@ -25,6 +25,11 @@ import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 import com.example.wave.nfc.NfcManager
 
+/**
+ * Entry point for the Wave App. Boots up the Android lifecycle, 
+ * initializes Hilt dependency injection, sets up the Compose navigation graph, 
+ * and handles foreground app lifecycle binding for the NFC physical hardware.
+ */
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 

@@ -15,6 +15,16 @@ import java.io.IOException
 import javax.inject.Inject
 import javax.inject.Singleton
 
+/**
+ * NfcManager handles the low-level NFC operations including reading,
+ * formatting, and writing NDEF messages to NFC tags.
+ * It strictly acts as a singleton adapter interface between Android's NFC hardware and the Compose UI.
+ */
+/**
+ * Handles all core interactions with the physical NFC adapter hardware on the Android device.
+ * Operates in reader-mode, exposing tag discovery callbacks and parsing NDEF records
+ * (both string content and payload metadata) seamlessly to Jetpack Compose via StateFlows.
+ */
 @Singleton
 class NfcManager @Inject constructor() : NfcAdapter.ReaderCallback {
 

@@ -8,6 +8,11 @@ import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.stateIn
 import javax.inject.Inject
 
+/**
+ * Central StateHolder connecting the Jetpack Compose User Interface (UI) 
+ * with the underlying NFC Manager adapter. Exposes lifecycle-aware 
+ * flows containing current UI status and scanned tag contents.
+ */
 @HiltViewModel
 class WaveViewModel @Inject constructor(
     val nfcManager: NfcManager
