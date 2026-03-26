@@ -30,11 +30,12 @@ fun DashboardScreen(
             .fillMaxSize()
             .background(MaterialTheme.colorScheme.background)
     ) {
-        // Background animation
+        // Background animation (Ripples disabled to prevent distraction)
         FuturisticSpaceBackground(
             modifier = Modifier
                 .fillMaxSize()
-                .align(Alignment.Center)
+                .align(Alignment.Center),
+            showRings = false
         )
 
         Column(

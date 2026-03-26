@@ -75,7 +75,7 @@ fun SplashScreen(
 }
 
 @Composable
-fun FuturisticSpaceBackground(modifier: Modifier = Modifier) {
+fun FuturisticSpaceBackground(modifier: Modifier = Modifier, showRings: Boolean = true) {
     val infiniteTransition = rememberInfiniteTransition(label = "space_transition")
     
     // Animate rings expanding outwards
@@ -107,18 +107,20 @@ fun FuturisticSpaceBackground(modifier: Modifier = Modifier) {
         val maxRadius = maxOf(width, height)
 
         // Draw Concentric Ripples
-        val numRings = 6
-        for (i in 0 until numRings) {
-            val progress = (i.toFloat() / numRings + ringPhase) % 1f
-            val radius = progress * maxRadius
-            val alpha = (1f - progress) * 0.4f // Fades out as it expands
-            
-            drawCircle(
-                color = WaveTeal.copy(alpha = alpha),
-                radius = radius,
-                center = center,
-                style = Stroke(width = 2.dp.toPx() + (progress * 4.dp.toPx())) // Thicker as it expands
-            )
+        if (showRings) {
+            val numRings = 6
+            for (i in 0 until numRings) {
+                val progress = (i.toFloat() / numRings + ringPhase) % 1f
+                val radius = progress * maxRadius
+                val alpha = (1f - progress) * 0.4f // Fades out as it expands
+                
+                drawCircle(
+                    color = WaveTeal.copy(alpha = alpha),
+                    radius = radius,
+                    center = center,
+                    style = Stroke(width = 2.dp.toPx() + (progress * 4.dp.toPx())) // Thicker as it expands
+                )
+            }
         }
 
         // Draw Starfield (dots moving or rotating)
