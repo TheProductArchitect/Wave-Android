@@ -1,0 +1,58 @@
+com.example.wave.app-ui-text-release-0 /Users/venu/.gradle/caches/8.13/transforms/00eb3a2a907e85437a97abec4a5bd348/transformed/ui-text-release/res
+com.example.wave.app-ui-unit-release-1 /Users/venu/.gradle/caches/8.13/transforms/0290d67ac1bbb587c8508eeb27758ed5/transformed/ui-unit-release/res
+com.example.wave.app-fragment-1.5.1-2 /Users/venu/.gradle/caches/8.13/transforms/09bbdbd281f5146481d45ad62785c6cd/transformed/fragment-1.5.1/res
+com.example.wave.app-ui-tooling-data-release-3 /Users/venu/.gradle/caches/8.13/transforms/0d9c0386a478cecd98dfa82f5964bf9a/transformed/ui-tooling-data-release/res
+com.example.wave.app-annotation-experimental-1.3.1-4 /Users/venu/.gradle/caches/8.13/transforms/0ef20149fad294bb1e532c7adec3e8cb/transformed/annotation-experimental-1.3.1/res
+com.example.wave.app-profileinstaller-1.3.0-5 /Users/venu/.gradle/caches/8.13/transforms/183190b52e6ec8af163e7fc604ebd61b/transformed/profileinstaller-1.3.0/res
+com.example.wave.app-navigation-runtime-2.7.7-6 /Users/venu/.gradle/caches/8.13/transforms/18d3067ebdeca5b3606f7e15466ccde0/transformed/navigation-runtime-2.7.7/res
+com.example.wave.app-lifecycle-process-2.7.0-7 /Users/venu/.gradle/caches/8.13/transforms/1ad0a12e9e52a40eb5e19664c5980a2a/transformed/lifecycle-process-2.7.0/res
+com.example.wave.app-activity-compose-1.8.2-8 /Users/venu/.gradle/caches/8.13/transforms/1c1867f52ae8b62459099641b3740080/transformed/activity-compose-1.8.2/res
+com.example.wave.app-hilt-navigation-compose-1.2.0-9 /Users/venu/.gradle/caches/8.13/transforms/1f168e3215de9a39bbd125488ac9294e/transformed/hilt-navigation-compose-1.2.0/res
+com.example.wave.app-material-icons-core-release-10 /Users/venu/.gradle/caches/8.13/transforms/23b042cf9abaca20efbd34307d52172c/transformed/material-icons-core-release/res
+com.example.wave.app-animation-core-release-11 /Users/venu/.gradle/caches/8.13/transforms/2a495bcde347a028961657b62619090f/transformed/animation-core-release/res
+com.example.wave.app-material3-1.1.2-12 /Users/venu/.gradle/caches/8.13/transforms/2b2347e28d4f2203de7462e87516ffce/transformed/material3-1.1.2/res
+com.example.wave.app-lifecycle-livedata-core-2.7.0-13 /Users/venu/.gradle/caches/8.13/transforms/32d66dc68e899ebba36cad4cdd02b089/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.wave.app-ui-tooling-preview-release-14 /Users/venu/.gradle/caches/8.13/transforms/3572ef93cf493ad92ccb49c0d4397dd6/transformed/ui-tooling-preview-release/res
+com.example.wave.app-ui-test-manifest-1.5.4-15 /Users/venu/.gradle/caches/8.13/transforms/49dcc9dcf8b43288f741c39c76532bd0/transformed/ui-test-manifest-1.5.4/res
+com.example.wave.app-activity-ktx-1.8.2-16 /Users/venu/.gradle/caches/8.13/transforms/4aeb487b4893a66968ab560f23efed7c/transformed/activity-ktx-1.8.2/res
+com.example.wave.app-lifecycle-runtime-2.7.0-17 /Users/venu/.gradle/caches/8.13/transforms/57854e9cd1b8594de416bc419e8c3757/transformed/lifecycle-runtime-2.7.0/res
+com.example.wave.app-ui-tooling-release-18 /Users/venu/.gradle/caches/8.13/transforms/5bba6a1a0f7ad722119fce3e34e24aa6/transformed/ui-tooling-release/res
+com.example.wave.app-emoji2-1.4.0-19 /Users/venu/.gradle/caches/8.13/transforms/62f545fb2900c5593dbc82a818bbf9a0/transformed/emoji2-1.4.0/res
+com.example.wave.app-ui-util-release-20 /Users/venu/.gradle/caches/8.13/transforms/689e9f59fd0bc419bf6b074a70781601/transformed/ui-util-release/res
+com.example.wave.app-hilt-navigation-1.2.0-21 /Users/venu/.gradle/caches/8.13/transforms/72e3a4a6c44e87722d2ec6c22379e331/transformed/hilt-navigation-1.2.0/res
+com.example.wave.app-navigation-compose-2.7.7-22 /Users/venu/.gradle/caches/8.13/transforms/740e17368a7927ba2c157568e1c0bf8a/transformed/navigation-compose-2.7.7/res
+com.example.wave.app-ui-geometry-release-23 /Users/venu/.gradle/caches/8.13/transforms/82c9bcc91e2b280c0391cce8e35a3ff9/transformed/ui-geometry-release/res
+com.example.wave.app-runtime-release-24 /Users/venu/.gradle/caches/8.13/transforms/8af17556d655f15ae6e86e5cea542d20/transformed/runtime-release/res
+com.example.wave.app-navigation-runtime-ktx-2.7.7-25 /Users/venu/.gradle/caches/8.13/transforms/97b855097992eb16e12dfdc5172fa864/transformed/navigation-runtime-ktx-2.7.7/res
+com.example.wave.app-lifecycle-viewmodel-compose-2.7.0-26 /Users/venu/.gradle/caches/8.13/transforms/982ee596c05525f952475bdaa454bc55/transformed/lifecycle-viewmodel-compose-2.7.0/res
+com.example.wave.app-foundation-release-27 /Users/venu/.gradle/caches/8.13/transforms/9a8f670e9baa7a8185d5cc9fb95ff9de/transformed/foundation-release/res
+com.example.wave.app-lifecycle-livedata-2.7.0-28 /Users/venu/.gradle/caches/8.13/transforms/9b7691acc1db104d97417f7b4f8b1770/transformed/lifecycle-livedata-2.7.0/res
+com.example.wave.app-ui-release-29 /Users/venu/.gradle/caches/8.13/transforms/9c5e9a219ef80fab631a1c79ad77a581/transformed/ui-release/res
+com.example.wave.app-core-ktx-1.12.0-30 /Users/venu/.gradle/caches/8.13/transforms/9e6a3bee2b8d16c6f0d963797fbcb9ed/transformed/core-ktx-1.12.0/res
+com.example.wave.app-startup-runtime-1.1.1-31 /Users/venu/.gradle/caches/8.13/transforms/a13d277566b71444106fe489d7f0ec4e/transformed/startup-runtime-1.1.1/res
+com.example.wave.app-lifecycle-livedata-core-ktx-2.7.0-32 /Users/venu/.gradle/caches/8.13/transforms/a214a24b5bc3d9e41424b642ea932cab/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.example.wave.app-animation-release-33 /Users/venu/.gradle/caches/8.13/transforms/a7f0b847e35b44aad08e30fd05d5fb1a/transformed/animation-release/res
+com.example.wave.app-material-ripple-release-34 /Users/venu/.gradle/caches/8.13/transforms/a94778fd61bcf28ae6767e3c7ac5bccc/transformed/material-ripple-release/res
+com.example.wave.app-navigation-common-2.7.7-35 /Users/venu/.gradle/caches/8.13/transforms/aa19a6c6b2f23f10ae0c7cae3fc62fc3/transformed/navigation-common-2.7.7/res
+com.example.wave.app-ui-graphics-release-36 /Users/venu/.gradle/caches/8.13/transforms/ae627979fb0e5953dbe55f4fa2f6f65d/transformed/ui-graphics-release/res
+com.example.wave.app-lifecycle-viewmodel-ktx-2.7.0-37 /Users/venu/.gradle/caches/8.13/transforms/bc53d65e09d015bac3c149a8e702aeb0/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.example.wave.app-runtime-saveable-release-38 /Users/venu/.gradle/caches/8.13/transforms/bda3ab663d68ff523344a2ff87b4c8c3/transformed/runtime-saveable-release/res
+com.example.wave.app-foundation-layout-release-39 /Users/venu/.gradle/caches/8.13/transforms/bdf28ad076de8d6db61a854fe991d720/transformed/foundation-layout-release/res
+com.example.wave.app-savedstate-1.2.1-40 /Users/venu/.gradle/caches/8.13/transforms/c37e212fced0ed01f36d561bdb7ae06c/transformed/savedstate-1.2.1/res
+com.example.wave.app-lifecycle-viewmodel-2.7.0-41 /Users/venu/.gradle/caches/8.13/transforms/cb8de6ecbb84434286b8d8e66ebeb07e/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.wave.app-lifecycle-viewmodel-savedstate-2.7.0-42 /Users/venu/.gradle/caches/8.13/transforms/cd70bf82233413d9cc3af65d1bd40f8b/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.wave.app-customview-poolingcontainer-1.0.0-43 /Users/venu/.gradle/caches/8.13/transforms/d2499a4e473d86fe4f0bba9a1c4d0272/transformed/customview-poolingcontainer-1.0.0/res
+com.example.wave.app-core-runtime-2.2.0-44 /Users/venu/.gradle/caches/8.13/transforms/d84713ad9dc722dc1754707a472b37fa/transformed/core-runtime-2.2.0/res
+com.example.wave.app-lifecycle-runtime-ktx-2.7.0-45 /Users/venu/.gradle/caches/8.13/transforms/e09ff356d02dd71ac8e45bdb0a3a4665/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.example.wave.app-material-release-46 /Users/venu/.gradle/caches/8.13/transforms/edfa5509fa9d63170d2d9d7ea84803fc/transformed/material-release/res
+com.example.wave.app-navigation-common-ktx-2.7.7-47 /Users/venu/.gradle/caches/8.13/transforms/ef9d088b49a89290af03588cc969b72b/transformed/navigation-common-ktx-2.7.7/res
+com.example.wave.app-core-1.12.0-48 /Users/venu/.gradle/caches/8.13/transforms/f28b01f2d644e0b977b0ebe7d2658830/transformed/core-1.12.0/res
+com.example.wave.app-savedstate-ktx-1.2.1-49 /Users/venu/.gradle/caches/8.13/transforms/f2f46c0ec3b23a89cb2df644583b54a1/transformed/savedstate-ktx-1.2.1/res
+com.example.wave.app-activity-1.8.2-50 /Users/venu/.gradle/caches/8.13/transforms/f865daaab34a494c8042b760d4e410a0/transformed/activity-1.8.2/res
+com.example.wave.app-resValues-51 /Users/venu/Documents/GitHub/Wave - Android/app/build/generated/res/resValues/debug
+com.example.wave.app-updated_navigation_xml-52 /Users/venu/Documents/GitHub/Wave - Android/app/build/generated/updated_navigation_xml/debug
+com.example.wave.app-packageDebugResources-53 /Users/venu/Documents/GitHub/Wave - Android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.wave.app-packageDebugResources-54 /Users/venu/Documents/GitHub/Wave - Android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.wave.app-debug-55 /Users/venu/Documents/GitHub/Wave - Android/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.wave.app-debug-56 /Users/venu/Documents/GitHub/Wave - Android/app/src/debug/res
+com.example.wave.app-main-57 /Users/venu/Documents/GitHub/Wave - Android/app/src/main/res
