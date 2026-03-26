@@ -94,12 +94,7 @@ fun SecureScanScreen(
             val borderColor = if (isError) Color(0xFFE57373) else WaveTeal
             val titleText = if (isError) "ERROR" else "INFO ON THE NFC TAG"
             val bodyText = if (isSuccessWrite && errorMessage == null) {
-                if (payload != null) "Tag programmed successfully!
-
-Here's what is written on to the NFC tag:
-" + payload else "Tag programmed successfully!
-
-Here's what is written on to the NFC tag."
+                if (payload != null) "Tag programmed successfully!\n\nHere's what is written on to the NFC tag:\n" + payload else "Tag programmed successfully!\n\nHere's what is written on to the NFC tag."
             } else {
                 errorMessage ?: payload ?: "Tag programmed successfully!"
             }

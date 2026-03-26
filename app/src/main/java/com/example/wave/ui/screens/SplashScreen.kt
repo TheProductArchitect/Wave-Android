@@ -49,7 +49,7 @@ fun SplashScreen(
                 alphaAnim.animateTo(1f, animationSpec = tween(1500, easing = FastOutSlowInEasing))
             }
             LaunchedEffect(Unit) {
-                scaleAnim.animateTo(1f, animationSpec = tween(1500, easing = FastOutBounceEasing))
+                scaleAnim.animateTo(1f, animationSpec = tween(1500, easing = FastOutSlowInEasing))
             }
 
             Text(
@@ -75,7 +75,7 @@ fun SplashScreen(
 }
 
 @Composable
-fun FuturisticSpaceBackground() {
+fun FuturisticSpaceBackground(modifier: Modifier = Modifier) {
     val infiniteTransition = rememberInfiniteTransition(label = "space_transition")
     
     // Animate rings expanding outwards
@@ -100,7 +100,7 @@ fun FuturisticSpaceBackground() {
         label = "rotation"
     )
 
-    Canvas(modifier = Modifier.fillMaxSize()) {
+    Canvas(modifier = modifier.fillMaxSize()) {
         val width = size.width
         val height = size.height
         val center = Offset(width / 2f, height / 2f)

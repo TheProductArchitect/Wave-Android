@@ -31,7 +31,7 @@ fun DashboardScreen(
             .background(MaterialTheme.colorScheme.background)
     ) {
         // Background animation
-        WaveGraphic(
+        FuturisticSpaceBackground(
             modifier = Modifier
                 .fillMaxSize()
                 .align(Alignment.Center)
