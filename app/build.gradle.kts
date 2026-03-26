@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.wave"
+    namespace = "com.theproductarchitect.wave"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.wave"
+        applicationId = "com.theproductarchitect.wave"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.theproductarchitect.wave.app-release-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.theproductarchitect.wave.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.theproductarchitect.wave.app-release-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.theproductarchitect.wave.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.theproductarchitect.wave.app-release-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.theproductarchitect.wave.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.theproductarchitect.wave.app-release-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.theproductarchitect.wave.app-main-52:/drawable/ic_launcher_background.xml"
+    }
+]
